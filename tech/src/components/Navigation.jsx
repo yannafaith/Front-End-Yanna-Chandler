@@ -14,7 +14,7 @@ class Navigation extends React.Component  {
          <Link to="/items"><h1> Tech Plum </h1></Link>
          <div className='links'>
 
-            <a href='https://blissful-goldberg-662c12.netlify.com/'>About</a>
+            <a href='https://632c23d32cf18672c3a9f638--hilarious-babka-c9b9e1.netlify.app/'>About</a>
 
             <Link to='/items'>Plum Market</Link>
 
